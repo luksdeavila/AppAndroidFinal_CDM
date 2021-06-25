@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaApp</string>
+
+    //activity_login
+    <string name="usuario">Usuario</string>
+    <string name="senha">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="clique">Aún no estás registrado?\nHaz clic aquí !</string>
+
+    //activity_cadastro
+    <string name="dados">Digite os seus dados</string>
+    <string name="email_cadastro">Digite o seu e-mail</string>
+    <string name="telefone_cadastro">Número de teléfono</string>
+    <string name="selecione">Selecione o tipo de conta</string>
+    <string name="usuario_selecao_cadastro">Usuario</string>
+    <string name="locador_selecao_cadastro">Locador</string>
+    <string name="cadastrar">Cadastrar</string>
+
+    //activity_main
+    <string name="modelo">Modelo</string>
+    <string name="marca">Marca</string>
+    <string name="placa">Placa</string>
+    <string name="diaria">Diario</string>
+    <string name="remover">Eliminar</string>
+
+    //activity_main_usuario
+    <string name="titulo">Vehículos disponibles para alquiler</string>
+    <string name="reservar">Reserva</string>
+    <string name="proprietario">Dueño: </string>
+
+    //activity_add_veiculo
+    <string name="adicionarVeiculo">Agregar vehículo</string>
+    <string name="cancelar">Cancelar</string>
+
+    //activity_seleciona_idioma
+    <string name="text_tela_inicial">Elige tu idioma</string>
+
+    //activity_reservas_usuario
+    <string name="titulo_reservas">Reservas hechas</string>
+    <string name="contato_locador">Comuníquese</string>
+    <string name="cancelar_reserva">TCancelar reserva</string>
+    <string name="voltar">Vuelve</string>
+
+    //activity_dados_locador
+    <string name="titulo_locador">Organizar el retiro y el pago directamente con el propietario.</string>
+
+</resources>

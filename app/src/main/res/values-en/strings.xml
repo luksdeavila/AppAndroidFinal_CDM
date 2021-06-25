@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaApp</string>
+
+    //activity_login
+    <string name="usuario">Username</string>
+    <string name="senha">Password</string>
+    <string name="entrar">Enter</string>
+    <string name="clique">Not registered yet?\nClick here !</string>
+
+    //activity_cadastro
+    <string name="dados">Enter your personal data</string>
+    <string name="email_cadastro">E-mail</string>
+    <string name="telefone_cadastro">Phone number</string>
+    <string name="selecione">Select your account type</string>
+    <string name="usuario_selecao_cadastro">User</string>
+    <string name="locador_selecao_cadastro">Locator</string>
+    <string name="cadastrar">Register</string>
+    //Os campos anteriormente existentes foram reutilizados
+
+    //activity_main
+    <string name="modelo">Model</string>
+    <string name="marca">Brand</string>
+    <string name="placa">Plate</string>
+    <string name="diaria">Value</string>
+    <string name="remover">Remove</string>
+
+    //activity_main_usuario
+    <string name="titulo">Vehicles available for rental</string>
+    <string name="reservar">Reserve</string>
+    <string name="proprietario">Owner: </string>
+
+    //activity_add_veiculo
+    <string name="adicionarVeiculo">Add vehicle</string>
+    <string name="cancelar">Cancel</string>
+
+    //activity_seleciona_idioma
+    <string name="text_tela_inicial">Select your language</string>
+
+    //activity_reservas_usuario
+    <string name="titulo_reservas">Reservations made</string>
+    <string name="contato_locador">Contact</string>
+    <string name="cancelar_reserva">Cancel</string>
+    <string name="voltar">Back</string>
+
+    //activity_dados_locador
+    <string name="titulo_locador">Arrange the withdrawal and payment directly with the landlord.</string>
+
+
+</resources>
